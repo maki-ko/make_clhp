@@ -1,0 +1,131 @@
+.header_inner {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+body {
+    font-family: 'Shippori Antique', sans-serif;
+}
+    header {
+    background-image: url(images/eha0039-003.jpg);
+    background-size: cover;
+}
+h1 {color: #a77039;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 2.6rem;
+}
+h2 {color: #a77039;
+    padding-top: 40px;
+    font-size: 2.3rem;
+}
+h3 {
+    color: antiquewhite;
+    text-align: center;
+    font-size: 2.5rem;
+    padding-bottom: 30px;
+}
+h4 {color: #a77039;
+    text-align: center;
+    font-size: 2.3rem;
+    }
+.intro {
+    color: rgb(19, 77, 185);
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+.message {
+    font-size: 20px;
+}
+.m-s {
+    text-align: center;
+}
+.news-area {
+    width:50%;
+    margin-top: 55px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+aside {
+    color: #1F8AB4;
+    font-size: 25px;
+    font-weight: bolder;
+}
+article {
+    font-size: 27px;
+    padding-bottom: 100px;
+}
+.blog {
+    font-size: 2rem;
+    color: rgb(19, 77, 185);
+    font-weight: bolder;
+}
+.header_inner img {
+    size: 50px;
+}
+main {
+    display:flex;
+    justify-content:space-between;
+}
+body {
+    background-color: #f1ebdf;
+    width: 100%;
+    height: 100%;
+}
+.wrapper {
+    text-align: center;
+}
+.hn {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.mn {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 10px;
+    font-size: 2rem;
+}
+.example {
+    background-image: url(images/gft0077-054.jpg);
+    padding-top: 50px;
+    padding-bottom: 370px;
+    margin-top: 70px;
+}
+footer p {
+    font-size: larger;
+    padding-top: 50px;
+}
+footer {
+    background-image: url(images/eha0039-003.jpg);
+    background-size: cover;
+}
+form {
+    width: 27%;
+    margin: 15% auto;
+    min-width: 9rem; 
+    font-size: 1.5rem;
+    text-align: justify;
+  }
+  input, textarea {
+    float: left;
+    width: 100%;
+    max-width: 100%;
+    
+    margin: 1.5rem 0;
+    padding: 1.5rem 1rem;
+    border-radius: 0.3rem;
+    background: darken(#f9f9f9, 10%);
+    color: darken(#f9f9f9, 50%); 
+  }
+.button {
+    background-color:#2ABCA7;
+    cursor: pointer;
+    font-size: 1.3rem;
+}
+footer p {
+    color: #222222;
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px;
+}
